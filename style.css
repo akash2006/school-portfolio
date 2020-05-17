@@ -1,0 +1,27 @@
+*{
+    background-color: grey;
+}
+h1{
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 550;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+}
+.hometextheader{
+    display:flex;
+}
+.hometext{
+    display: flex;
+    justify-content: space-evenly;
+}
